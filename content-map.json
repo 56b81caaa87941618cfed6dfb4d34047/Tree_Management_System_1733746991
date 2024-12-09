@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "Arbor",
+        "HERO_HEADING_TEXT": "Branch Out Your Digital Ecosystem",
+        "HERO_SUBHEADING_TEXT": "Cultivate, Connect, and Grow Your Data Structures with Ease",
+        "FOOTER_TEXT": "\u00a9 2023 Arbor. Rooted in Innovation, Branching into the Future."
+    }
+}
